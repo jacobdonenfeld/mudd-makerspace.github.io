@@ -51,6 +51,11 @@ mudd-makerspace-l@g.hmc.edu
 	  	<td>President</td>
 	  	<td>eposs (at) hmc [dot] edu</td>
 	  </tr>
+	<tr>
+	    <td scope="row">Jacob Donenfeld</td>
+	  	<td>President</td>
+	  	<td>jdonenfeld (at) hmc [dot] edu</td>
+	  </tr>
 	  <tr>
 	    <td scope="row">John Lee</td>
 	  	<td>Supplies and Equipment Manager</td>
