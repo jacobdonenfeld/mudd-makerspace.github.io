@@ -41,11 +41,6 @@ mudd-makerspace-l@g.hmc.edu
 	  </tr>
 	  </thead>
 	  <tbody>
-	  <tr>
-	  	<td scope="row">Andrew Bishop</td>
-	  	<td>President & Treasurer</td>
-	  	<td>abishop (at) hmc [dot] edu</td>
-	  </tr>
 	    <tr>
 	    <td scope="row">Elizabeth Poss</td>
 	  	<td>President</td>
@@ -56,19 +51,24 @@ mudd-makerspace-l@g.hmc.edu
 	  	<td>President</td>
 	  	<td>jdonenfeld (at) hmc [dot] edu</td>
 	  </tr>
+	<tr>
+	  	<td scope="row">Andrew Bishop</td>
+	  	<td>Alum - President</td>
+	  	<td>abishop (at) hmc [dot] edu</td>
+	  </tr>
 	  <tr>
 	    <td scope="row">John Lee</td>
-	  	<td>Supplies and Equipment Manager</td>
+	  	<td>Alum - Supplies and Equipment Manager</td>
 	  	<td>johlee (at) hmc [dot] edu</td>
 	  </tr>
 	  <tr>
 	    <td scope="row">Jingnan Shi</td>
-	  	<td>Webpage Manager and Tutorials Lead</td>
+	  	<td>Alum - Webpage Manager and Tutorials Lead</td>
 	  	<td>jshi (at) hmc [dot] edu</td>
 	  </tr>
 	  <tr>
 	    <td scope="row">Isabel Martos-Repath</td>
-	  	<td>Organizational Manager</td>
+	  	<td>Alum - Organizational Manager</td>
 	  	<td>imartosrepath (at) hmc [dot] edu</td>
 	  </tr>
   </tbody>
